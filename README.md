@@ -1,4 +1,4 @@
-## The Docker environment
+## The Docker environment for WordPress
 
 ## What is this ?
 This template repository is a boilerplate setup for a PHP application.
