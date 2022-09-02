@@ -37,9 +37,9 @@ add your own hostname on your `/etc/hosts`
 
 Service|Address outside containers
 -------|--------------------------
-Webserver|[localhost:3000](http://localhost:80)
+Webserver|[localhost:80](http://localhost:80)
 MySQL|**host:** `localhost`; **port:** `3306`
-phpMyAdmin|[localhost:8080](http://localhost:8001)
+phpMyAdmin|[localhost:8001](http://localhost:8001)
 
 ## Hosts within your environment ##
 
